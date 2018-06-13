@@ -2,6 +2,8 @@
 
 This sketch is a dramatization for movies using colored particles.
 
+![](coco.gif)
+
 ## Requirement
 You need to import video library for your processing.
 
